@@ -3,5 +3,114 @@
   "__export_format": 4,
   "__export_date": "2021-10-03T17:27:43.046Z",
   "__export_source": "insomnia.desktop.app:v2021.6.0",
-  "resources": []
+  "resources": [
+    {
+      "_id": "req_e17a7dbcbcce4794b2cfde276517da44",
+      "parentId": "__WORKSPACE_ID__",
+      "modified": "1637671845661",
+      "created": 1690564506448,
+      "url": "http://127.0.0.1:8000/api/exercicio/um",
+      "name": "Exercício 1",
+      "description": "",
+      "method": "POST",
+      "body": {
+        "mimeType": "application/json",
+        "text": "{\n\t\"primeiro_numero\":20,\n\t\"segundo_numero\":10\n}"
+      },
+      "parameters": [],
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json"
+        }
+      ],
+      "authentication": {},
+      "metaSortKey": 0,
+      "isPrivate": false,
+      "settingStoreCookies": true,
+      "settingSendCookies": true,
+      "settingDisableRenderRequestBody": false,
+      "settingEncodeUrl": true,
+      "settingRebuildPath": true,
+      "settingFollowRedirects": "global",
+      "_type": "request"
+    },
+    {
+      "_id": "__WORKSPACE_ID__",
+      "parentId": null,
+      "modified": "1637671845661",
+      "created": 1690996756571,
+      "name": "Exercícios",
+      "description": "",
+      "scope": "collection",
+      "_type": "workspace"
+    },
+    {
+      "_id": "req_5ae919b1f7ac4bd2961098705ffb431c",
+      "parentId": "__WORKSPACE_ID__",
+      "modified": "1637671845661",
+      "created": 1690564665000,
+      "url": "http://127.0.0.1:8000/api/exercicio/dois",
+      "name": "Exercício 2",
+      "description": "",
+      "method": "POST",
+      "body": {
+        "mimeType": "application/json",
+        "text": "{\n\t\"primeira_entrada\":20,\n\t\"segunda_entrada\":310\n}"
+      },
+      "parameters": [],
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json"
+        }
+      ],
+      "authentication": {},
+      "metaSortKey": 100,
+      "isPrivate": false,
+      "settingStoreCookies": true,
+      "settingSendCookies": true,
+      "settingDisableRenderRequestBody": false,
+      "settingEncodeUrl": true,
+      "settingRebuildPath": true,
+      "settingFollowRedirects": "global",
+      "_type": "request"
+    },
+    {
+      "_id": "req_ac1b1e8fec7341aa82d6f85b8293b8ca",
+      "parentId": "__WORKSPACE_ID__",
+      "modified": "1637671845661",
+      "created": 1690564720869,
+      "url": "http://127.0.0.1:8000/api/exercicio/sete",
+      "name": "Exercício 7",
+      "description": "",
+      "method": "GET",
+      "body": {},
+      "parameters": [],
+      "headers": [],
+      "authentication": {},
+      "metaSortKey": 200,
+      "isPrivate": false,
+      "settingStoreCookies": true,
+      "settingSendCookies": true,
+      "settingDisableRenderRequestBody": false,
+      "settingEncodeUrl": true,
+      "settingRebuildPath": true,
+      "settingFollowRedirects": "global",
+      "_type": "request"
+    },
+    {
+      "_id": "__BASE_ENVIRONMENT_ID__",
+      "parentId": "__WORKSPACE_ID__",
+      "modified": "1637671845661",
+      "created": 1690996756573,
+      "name": "Base Environment",
+      "data": {},
+      "dataPropertyOrder": null,
+      "color": null,
+      "isPrivate": false,
+      "metaSortKey": 1690996756573,
+      "_type": "environment"
+    }
+  ]
 }
