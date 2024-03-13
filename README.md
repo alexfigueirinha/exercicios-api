@@ -1,3 +1,4 @@
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 # Exercícios API com PHP e Laravel
 
 Este projeto contém uma série de exercícios práticos para trabalhar com API e retorno dos dados no formato JSON usando a linguagem PHP e o framework Laravel.
