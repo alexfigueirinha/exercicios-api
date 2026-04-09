@@ -14,24 +14,19 @@ Este repositório foi desenvolvido para praticar:
 * Retorno de dados em JSON
 * Testes de endpoints com Insomnia
 
-## ⚙️ Tecnologias utilizadas
+## ⚙️ Tecnologias e Requisitos
 
-* PHP
-* Laravel
-* Composer
-* Insomnia
-* Git
-
-## 📦 Requisitos
-
-Antes de começar, você precisa ter instalado:
+Este projeto foi desenvolvido utilizando:
 
 - PHP
-- Composer
 - Laravel Framework
 - 7-Zip
+- Composer
+- Insomnia
 - Git
 - Editor de código de sua preferência (ex: VS Code)
+
+Certifique-se de ter essas ferramentas instaladas no seu ambiente antes de executar o projeto.
 
 ## 🚀 Como utilizar este repositório
 
