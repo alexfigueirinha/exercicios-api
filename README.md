@@ -87,6 +87,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE), o que significa que 
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Alex Figueira**
+Desenvolvido por **Alex**
+
 GitHub: https://github.com/alexfigueirinha
 
