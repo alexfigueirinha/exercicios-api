@@ -43,11 +43,11 @@ cd exercicios-api
 composer update
 ```
 4. Copiando o .env do exemplo
-# Windows
+**Windows:**
 ```
 copy .env.example .env
 ```
-# Linux/Mac
+**Linux/Mac:**
 ```
 cp .env.example .env
 ```
