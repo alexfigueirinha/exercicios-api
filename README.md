@@ -25,6 +25,7 @@ Este projeto foi desenvolvido utilizando:
 - Insomnia
 - Git
 - Editor de código de sua preferência (ex: VS Code)
+- MySQL
 
 Certifique-se de ter essas ferramentas instaladas no seu ambiente antes de executar o projeto.
 
